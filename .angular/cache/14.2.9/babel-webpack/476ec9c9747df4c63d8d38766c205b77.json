@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: true,\n  weatherApiBaseUrl: 'https://api.openweathermap.org/data/2.5/weather?',\n  API_KEY: 'ef843dd7e1561a59e0ed984801612c11'\n};","map":null,"metadata":{},"sourceType":"module"}
